@@ -8,8 +8,8 @@ class App extends React.Component {
     running_app: ""
   }
 
-  handleClick = event => {
-    
+  handleApp = event => {
+
   }
 
   render() {
